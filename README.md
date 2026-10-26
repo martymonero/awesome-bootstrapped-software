@@ -77,13 +77,12 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Marketing
 - [JustBlogged](https://justblogged.com) - No-setup blogging platform. Start your blog in 2 minutes. Free plan available, $9/mo for Pro with custom domains and built-in SEO.
-
 - [Leado](https://leado.co) - AI-powered Reddit lead generation tool that monitors subreddits for high-intent conversations and automates outreach.
 - [Autoposting](https://autoposting.ai) - AI social media manager that writes posts in your voice, clips long video, and schedules to five networks.
-
 - [SocialClaw](https://getsocialclaw.com) - Schedule and publish social posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress via dashboard, API, CLI, or MCP. Free tier available.
 - [Shortshort](https://www.shortshort.io) - Turns one long video (upload or YouTube link) into vertical 9:16 shorts with word-by-word captions. Free plan with 60 credits, paid plans from €12/mo.
 - [Pingroupie](https://pingroupie.com) - Pinterest pin scheduler where you approve every pin before it is published, with a group board directory and keyword ideas. Free plan available, Premium $9.99/mo or $79/year.
+- [day3](https://day3.app) - Newsletters and transactional email billed by emails sent, unlimited subscribers, from $1/mo. REST API and MCP server.
 
 ## Productivity
 
@@ -100,6 +99,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## Sales
 
 - [Dialbrew](https://dialbrew.com) - Operations platform for SDR and appointment-setting agencies: per-client lead lists, browser calling, bookings, client portal and commission tracking. Per-seat pricing from €39/month.
+- [Drevon](https://www.drevon.dev) - Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins.
 
 ## SEO
 
